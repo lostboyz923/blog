@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-06T13:18:50-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Page One</title><link href="http://localhost:4000/jekyll/update/2023/07/05/Page-One.html" rel="alternate" type="text/html" title="Page One" /><published>2023-07-05T07:25:49-04:00</published><updated>2023-07-05T07:25:49-04:00</updated><id>http://localhost:4000/jekyll/update/2023/07/05/Page%20One</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/05/Page-One.html"><![CDATA[<p><img src="https://s2.loli.net/2023/07/06/oyxJtkqaupnvFzr.png" alt="gathersys.png" /></p>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<p><img src="https://s2.loli.net/2023/07/06/oyxJtkqaupnvFzr.png" alt="gathersys.png" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">A Guide To Recognizing Your Saints.</title><link href="http://localhost:4000/jekyll/update/2023/07/05/A-Guide-To-Recognizing-Your-Saints.html" rel="alternate" type="text/html" title="A Guide To Recognizing Your Saints." /><published>2023-07-05T07:25:49-04:00</published><updated>2023-07-05T07:25:49-04:00</updated><id>http://localhost:4000/jekyll/update/2023/07/05/A%20Guide%20To%20Recognizing%20Your%20Saints</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/05/A-Guide-To-Recognizing-Your-Saints.html"><![CDATA[<p>g</p>
+
+<p><img src="https://s2.loli.net/2023/07/06/TNtwzIaLCFyKqGZ.png" alt="venom93.png" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[g]]></summary></entry><entry><title type="html">Muggsy Bogues</title><link href="http://localhost:4000/jekyll/update/2023/07/05/Muggsy-Bogeus.html" rel="alternate" type="text/html" title="Muggsy Bogues" /><published>2023-07-05T07:25:49-04:00</published><updated>2023-07-05T07:25:49-04:00</updated><id>http://localhost:4000/jekyll/update/2023/07/05/Muggsy%20Bogeus</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/07/05/Muggsy-Bogeus.html"><![CDATA[<p>One Tyrone Bodues was 5,3” weighing only 140lbs and was able to played in the NBA. That being said i have only one question to ask you… 
+<img src="https://s2.loli.net/2023/07/06/VzYMdXnEu3QfbjF.png" alt="Screenshot 2023-07-06 073636.png" />
+ What’s your excuse?</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[One Tyrone Bodues was 5,3” weighing only 140lbs and was able to played in the NBA. That being said i have only one question to ask you… What’s your excuse?]]></summary></entry></feed>
