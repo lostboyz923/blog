@@ -1,0 +1,6 @@
+{
+    "grammarly.config.suggestionCategories.conjugationAtStartOfSentence": "on",
+    "grammarly.config.suggestionCategories.informalPronounsAcademic": "on",
+    "grammarly.config.documentDomain": "creative",
+    "grammarly.config.documentDialect": "american"
+}

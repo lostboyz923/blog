@@ -1,11 +1,19 @@
 ---
 layout: post
 title:  "A Guide To Recognizing Your Saints."
-date:   2023-07-05 07:25:49 -0400
+date:   2023-07-06 07:25:49 -0400
 categories: jekyll update
 ---
 
-g
+
+> g
+
+[text link with title](https://duckduckgo.com "DDG Home")
+
+
+[text link](https://duckduckgo.com)
+
+``` 🙃 ```
 
 
 

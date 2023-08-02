@@ -49,3 +49,50 @@ PICTURES ::
 ![venom93.png](https://s2.loli.net/2023/07/06/TNtwzIaLCFyKqGZ.png)
 ![gathersys.png](https://s2.loli.net/2023/07/06/oyxJtkqaupnvFzr.png)
 ![Screenshot 2023-07-06 073636.png](https://s2.loli.net/2023/07/06/VzYMdXnEu3QfbjF.png)
+
+----------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Outline</title>
+  <style>
+    /* CSS styles go here */
+  </style>
+  <script>
+    // JavaScript code goes here
+  </script>
+</head>
+<body>
+  <!-- HTML content goes here -->
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------
+{{ content }}
+
+{% if page.style %}
+    <link rel="stylesheet" href="{{ page.style }}">
+{% endif %}
+
+
+
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+------------------------------------
+<!doctype html>
+ <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>test</title>
+    </head>
+    <body>
+        #oh this is wonderful i found it again
+        ##boo boo kitty fuck
+        ==Trick A$$ Mark, Mark A$$ Trick "boys in the hood"==
+    </body>
+</html> 
+      
